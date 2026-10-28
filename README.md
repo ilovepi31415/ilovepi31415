@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is the old username for David Randall, you can find him [here](https://github.com/david-c-randall).
+
 <!--
 **ilovepi31415/ilovepi31415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
